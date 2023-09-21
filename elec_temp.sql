@@ -1,0 +1,20 @@
+SELECT corporate_energy_consumption.Business_Unit_Desc, corporate_energy_consumption.Energy_Description, 
+corporate_energy_consumption.Total_Consumption AS electricity_kWh, corporate_energy_consumption.Month, temperature_data.Monthly_Air_Temp,
+temperature_data.Monthly_Cooling_Degree_Days, temperature_data.Monthly_Heating_Degree_Days FROM corporate_energy_consumption JOIN 
+temperature_data ON corporate_energy_consumption.Month = temperature_data.Month 
+WHERE corporate_energy_consumption.Energy_Description = 'Electricity' AND 
+corporate_energy_consumption.Year = 2019 GROUP BY corporate_energy_consumption.Business_Unit_Desc, MONTH;
+
+SELECT corporate_energy_consumption.Business_Unit_Desc, corporate_energy_consumption.Energy_Description, 
+corporate_energy_consumption.Total_Consumption AS electricity_kWh, corporate_energy_consumption.Month, temperature_data.Monthly_Air_Temp,
+temperature_data.Monthly_Cooling_Degree_Days, temperature_data.Monthly_Heating_Degree_Days FROM corporate_energy_consumption JOIN 
+temperature_data ON corporate_energy_consumption.Month = temperature_data.Month 
+WHERE corporate_energy_consumption.Energy_Description = 'Electricity' AND 
+corporate_energy_consumption.Year = 2020 GROUP BY corporate_energy_consumption.Business_Unit_Desc, MONTH;
+
+SELECT corporate_energy_consumption.Business_Unit_Desc, corporate_energy_consumption.Energy_Description, 
+corporate_energy_consumption.Total_Consumption AS electricity_kWh, corporate_energy_consumption.Month, temperature_data.Monthly_Air_Temp,
+temperature_data.Monthly_Cooling_Degree_Days, temperature_data.Monthly_Heating_Degree_Days FROM corporate_energy_consumption JOIN 
+temperature_data ON corporate_energy_consumption.Month = temperature_data.Month 
+WHERE corporate_energy_consumption.Energy_Description = 'Electricity' AND 
+corporate_energy_consumption.Year = 2021 GROUP BY corporate_energy_consumption.Business_Unit_Desc, MONTH;

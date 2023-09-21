@@ -1,0 +1,181 @@
+Business_Unit_Desc,Energy_Description,electricity_kWh,Month,Monthly_Air_Temp,Monthly_Cooling_Degree_Days,Monthly_Heating_Degree_Days
+"Calgary Fire Department",Electricity,688,1,-6.867741935,0,770.9
+"Calgary Fire Department",Electricity,470,2,-12.4,0,851.2
+"Calgary Fire Department",Electricity,420,3,-5.806451613,0,738
+"Calgary Fire Department",Electricity,482,4,0.976666667,0,510.7
+"Calgary Fire Department",Electricity,305,5,14.12258065,11.2,131.4
+"Calgary Fire Department",Electricity,297,6,14.93666667,6.8,98.7
+"Calgary Fire Department",Electricity,400,7,17.14516129,26.4,52.9
+"Calgary Fire Department",Electricity,390,8,16.65483871,33.8,75.5
+"Calgary Fire Department",Electricity,386,9,6.756666667,0,337.3
+"Calgary Fire Department",Electricity,521,10,3.593548387,0,446.6
+"Calgary Fire Department",Electricity,589,11,-0.656666667,0,559.7
+"Calgary Fire Department",Electricity,638,12,-3.516129032,0,667
+"Calgary Parking Auth",Electricity,264,1,-6.867741935,0,770.9
+"Calgary Parking Auth",Electricity,224,2,-12.4,0,851.2
+"Calgary Parking Auth",Electricity,171,3,-5.806451613,0,738
+"Calgary Parking Auth",Electricity,138,4,0.976666667,0,510.7
+"Calgary Parking Auth",Electricity,107,5,14.12258065,11.2,131.4
+"Calgary Parking Auth",Electricity,99,6,14.93666667,6.8,98.7
+"Calgary Parking Auth",Electricity,101,7,17.14516129,26.4,52.9
+"Calgary Parking Auth",Electricity,129,8,16.65483871,33.8,75.5
+"Calgary Parking Auth",Electricity,4,9,6.756666667,0,337.3
+"Calgary Parking Auth",Electricity,350,10,3.593548387,0,446.6
+"Calgary Parking Auth",Electricity,551,11,-0.656666667,0,559.7
+"Calgary Parking Auth",Electricity,901,12,-3.516129032,0,667
+"Calgary Transit",Electricity,314,1,-6.867741935,0,770.9
+"Calgary Transit",Electricity,251,2,-12.4,0,851.2
+"Calgary Transit",Electricity,242,3,-5.806451613,0,738
+"Calgary Transit",Electricity,198,4,0.976666667,0,510.7
+"Calgary Transit",Electricity,167,5,14.12258065,11.2,131.4
+"Calgary Transit",Electricity,153,6,14.93666667,6.8,98.7
+"Calgary Transit",Electricity,166,7,17.14516129,26.4,52.9
+"Calgary Transit",Electricity,201,8,16.65483871,33.8,75.5
+"Calgary Transit",Electricity,214,9,6.756666667,0,337.3
+"Calgary Transit",Electricity,270,10,3.593548387,0,446.6
+"Calgary Transit",Electricity,295,11,-0.656666667,0,559.7
+"Calgary Transit",Electricity,317,12,-3.516129032,0,667
+"CPS - Bureaus",Electricity,20732,1,-6.867741935,0,770.9
+"CPS - Bureaus",Electricity,17125,2,-12.4,0,851.2
+"CPS - Bureaus",Electricity,18279,3,-5.806451613,0,738
+"CPS - Bureaus",Electricity,15310,4,0.976666667,0,510.7
+"CPS - Bureaus",Electricity,14377,5,14.12258065,11.2,131.4
+"CPS - Bureaus",Electricity,14778,6,14.93666667,6.8,98.7
+"CPS - Bureaus",Electricity,17885,7,17.14516129,26.4,52.9
+"CPS - Bureaus",Electricity,16870,8,16.65483871,33.8,75.5
+"CPS - Bureaus",Electricity,13089,9,6.756666667,0,337.3
+"CPS - Bureaus",Electricity,16723,10,3.593548387,0,446.6
+"CPS - Bureaus",Electricity,18543,11,-0.656666667,0,559.7
+"CPS - Bureaus",Electricity,19630,12,-3.516129032,0,667
+"Downtown Strategy",Electricity,0,1,-6.867741935,0,770.9
+"Downtown Strategy",Electricity,0,2,-12.4,0,851.2
+"Downtown Strategy",Electricity,0,3,-5.806451613,0,738
+"Downtown Strategy",Electricity,0,4,0.976666667,0,510.7
+"Downtown Strategy",Electricity,0,5,14.12258065,11.2,131.4
+"Downtown Strategy",Electricity,25476,6,14.93666667,6.8,98.7
+"Downtown Strategy",Electricity,27854,7,17.14516129,26.4,52.9
+"Downtown Strategy",Electricity,26274,8,16.65483871,33.8,75.5
+"Downtown Strategy",Electricity,19620,9,6.756666667,0,337.3
+"Downtown Strategy",Electricity,21818,10,3.593548387,0,446.6
+"Downtown Strategy",Electricity,24198,11,-0.656666667,0,559.7
+"Downtown Strategy",Electricity,25619,12,-3.516129032,0,667
+"Facility Management",Electricity,756,1,-6.867741935,0,770.9
+"Facility Management",Electricity,485,2,-12.4,0,851.2
+"Facility Management",Electricity,518,3,-5.806451613,0,738
+"Facility Management",Electricity,434,4,0.976666667,0,510.7
+"Facility Management",Electricity,461,5,14.12258065,11.2,131.4
+"Facility Management",Electricity,470,6,14.93666667,6.8,98.7
+"Facility Management",Electricity,562,7,17.14516129,26.4,52.9
+"Facility Management",Electricity,527,8,16.65483871,33.8,75.5
+"Facility Management",Electricity,469,9,6.756666667,0,337.3
+"Facility Management",Electricity,541,10,3.593548387,0,446.6
+"Facility Management",Electricity,600,11,-0.656666667,0,559.7
+"Facility Management",Electricity,635,12,-3.516129032,0,667
+"Green Line Operations",Electricity,3923,1,-6.867741935,0,770.9
+"Green Line Operations",Electricity,3314,2,-12.4,0,851.2
+"Green Line Operations",Electricity,3538,3,-5.806451613,0,738
+"Green Line Operations",Electricity,2963,4,0.976666667,0,510.7
+"Green Line Operations",Electricity,794,5,14.12258065,11.2,131.4
+"Green Line Operations",Electricity,869,6,14.93666667,6.8,98.7
+"Green Line Operations",Electricity,950,7,17.14516129,26.4,52.9
+"Green Line Operations",Electricity,896,8,16.65483871,33.8,75.5
+"Green Line Operations",Electricity,689,9,6.756666667,0,337.3
+"Green Line Operations",Electricity,786,10,3.593548387,0,446.6
+"Green Line Operations",Electricity,872,11,-0.656666667,0,559.7
+"Green Line Operations",Electricity,26,12,-3.516129032,0,667
+"Information Technology",Electricity,6367,1,-6.867741935,0,770.9
+"Information Technology",Electricity,5744,2,-12.4,0,851.2
+"Information Technology",Electricity,6001,3,-5.806451613,0,738
+"Information Technology",Electricity,6289,4,0.976666667,0,510.7
+"Information Technology",Electricity,6809,5,14.12258065,11.2,131.4
+"Information Technology",Electricity,7320,6,14.93666667,6.8,98.7
+"Information Technology",Electricity,8322,7,17.14516129,26.4,52.9
+"Information Technology",Electricity,7699,8,16.65483871,33.8,75.5
+"Information Technology",Electricity,6887,9,6.756666667,0,337.3
+"Information Technology",Electricity,6777,10,3.593548387,0,446.6
+"Information Technology",Electricity,6385,11,-0.656666667,0,559.7
+"Information Technology",Electricity,6566,12,-3.516129032,0,667
+Mobility,Electricity,5032,1,-6.867741935,0,770.9
+Mobility,Electricity,4063,2,-12.4,0,851.2
+Mobility,Electricity,50,3,-5.806451613,0,738
+Mobility,Electricity,43,4,0.976666667,0,510.7
+Mobility,Electricity,50,5,14.12258065,11.2,131.4
+Mobility,Electricity,0,6,14.93666667,6.8,98.7
+Mobility,Electricity,0,7,17.14516129,26.4,52.9
+Mobility,Electricity,0,8,16.65483871,33.8,75.5
+Mobility,Electricity,0,9,6.756666667,0,337.3
+Mobility,Electricity,0,10,3.593548387,0,446.6
+Mobility,Electricity,0,11,-0.656666667,0,559.7
+Mobility,Electricity,0,12,-3.516129032,0,667
+"Parks and Open Spaces-PK",Electricity,576,1,-6.867741935,0,770.9
+"Parks and Open Spaces-PK",Electricity,487,2,-12.4,0,851.2
+"Parks and Open Spaces-PK",Electricity,520,3,-5.806451613,0,738
+"Parks and Open Spaces-PK",Electricity,435,4,0.976666667,0,510.7
+"Parks and Open Spaces-PK",Electricity,730,5,14.12258065,11.2,131.4
+"Parks and Open Spaces-PK",Electricity,799,6,14.93666667,6.8,98.7
+"Parks and Open Spaces-PK",Electricity,873,7,17.14516129,26.4,52.9
+"Parks and Open Spaces-PK",Electricity,824,8,16.65483871,33.8,75.5
+"Parks and Open Spaces-PK",Electricity,633,9,6.756666667,0,337.3
+"Parks and Open Spaces-PK",Electricity,723,10,3.593548387,0,446.6
+"Parks and Open Spaces-PK",Electricity,802,11,-0.656666667,0,559.7
+"Parks and Open Spaces-PK",Electricity,907,12,-3.516129032,0,667
+"Public Spaces Delivery",Electricity,3693,1,-6.867741935,0,770.9
+"Public Spaces Delivery",Electricity,2420,2,-12.4,0,851.2
+"Public Spaces Delivery",Electricity,6562,3,-5.806451613,0,738
+"Public Spaces Delivery",Electricity,6281,4,0.976666667,0,510.7
+"Public Spaces Delivery",Electricity,6863,5,14.12258065,11.2,131.4
+"Public Spaces Delivery",Electricity,3394,6,14.93666667,6.8,98.7
+"Public Spaces Delivery",Electricity,3400,7,17.14516129,26.4,52.9
+"Public Spaces Delivery",Electricity,3054,8,16.65483871,33.8,75.5
+"Public Spaces Delivery",Electricity,3601,9,6.756666667,0,337.3
+"Public Spaces Delivery",Electricity,4667,10,3.593548387,0,446.6
+"Public Spaces Delivery",Electricity,4514,11,-0.656666667,0,559.7
+"Public Spaces Delivery",Electricity,5743,12,-3.516129032,0,667
+"Real Estate and Dev Serv",Electricity,194,1,-6.867741935,0,770.9
+"Real Estate and Dev Serv",Electricity,169,2,-12.4,0,851.2
+"Real Estate and Dev Serv",Electricity,181,3,-5.806451613,0,738
+"Real Estate and Dev Serv",Electricity,151,4,0.976666667,0,510.7
+"Real Estate and Dev Serv",Electricity,275,5,14.12258065,11.2,131.4
+"Real Estate and Dev Serv",Electricity,233,6,14.93666667,6.8,98.7
+"Real Estate and Dev Serv",Electricity,204,7,17.14516129,26.4,52.9
+"Real Estate and Dev Serv",Electricity,246,8,16.65483871,33.8,75.5
+"Real Estate and Dev Serv",Electricity,276,9,6.756666667,0,337.3
+"Real Estate and Dev Serv",Electricity,376,10,3.593548387,0,446.6
+"Real Estate and Dev Serv",Electricity,629,11,-0.656666667,0,559.7
+"Real Estate and Dev Serv",Electricity,536,12,-3.516129032,0,667
+"Utilities Delivery",Electricity,49,1,-6.867741935,0,770.9
+"Utilities Delivery",Electricity,41,2,-12.4,0,851.2
+"Utilities Delivery",Electricity,44,3,-5.806451613,0,738
+"Utilities Delivery",Electricity,41,4,0.976666667,0,510.7
+"Utilities Delivery",Electricity,37,5,14.12258065,11.2,131.4
+"Utilities Delivery",Electricity,45,6,14.93666667,6.8,98.7
+"Utilities Delivery",Electricity,56,7,17.14516129,26.4,52.9
+"Utilities Delivery",Electricity,56,8,16.65483871,33.8,75.5
+"Utilities Delivery",Electricity,46,9,6.756666667,0,337.3
+"Utilities Delivery",Electricity,46,10,3.593548387,0,446.6
+"Utilities Delivery",Electricity,44,11,-0.656666667,0,559.7
+"Utilities Delivery",Electricity,50,12,-3.516129032,0,667
+"Waste and Recycling Srvcs",Electricity,122,1,-6.867741935,0,770.9
+"Waste and Recycling Srvcs",Electricity,88,2,-12.4,0,851.2
+"Waste and Recycling Srvcs",Electricity,110,3,-5.806451613,0,738
+"Waste and Recycling Srvcs",Electricity,100,4,0.976666667,0,510.7
+"Waste and Recycling Srvcs",Electricity,99,5,14.12258065,11.2,131.4
+"Waste and Recycling Srvcs",Electricity,104,6,14.93666667,6.8,98.7
+"Waste and Recycling Srvcs",Electricity,111,7,17.14516129,26.4,52.9
+"Waste and Recycling Srvcs",Electricity,114,8,16.65483871,33.8,75.5
+"Waste and Recycling Srvcs",Electricity,101,9,6.756666667,0,337.3
+"Waste and Recycling Srvcs",Electricity,102,10,3.593548387,0,446.6
+"Waste and Recycling Srvcs",Electricity,104,11,-0.656666667,0,559.7
+"Waste and Recycling Srvcs",Electricity,112,12,-3.516129032,0,667
+"Water Services",Electricity,164,1,-6.867741935,0,770.9
+"Water Services",Electricity,107,2,-12.4,0,851.2
+"Water Services",Electricity,110,3,-5.806451613,0,738
+"Water Services",Electricity,55,4,0.976666667,0,510.7
+"Water Services",Electricity,12,5,14.12258065,11.2,131.4
+"Water Services",Electricity,0,6,14.93666667,6.8,98.7
+"Water Services",Electricity,0,7,17.14516129,26.4,52.9
+"Water Services",Electricity,0,8,16.65483871,33.8,75.5
+"Water Services",Electricity,3,9,6.756666667,0,337.3
+"Water Services",Electricity,64,10,3.593548387,0,446.6
+"Water Services",Electricity,94,11,-0.656666667,0,559.7
+"Water Services",Electricity,115,12,-3.516129032,0,667
